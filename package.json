@@ -1,0 +1,21 @@
+{
+  "name": "playwrightextension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test webApi2.spec.js --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.10.6",
+    "allure-commandline": "^2.26.0",
+    "allure-playwright": "^2.11.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^10.2.1"
+  }
+}
