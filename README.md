@@ -14,9 +14,11 @@ npm init playwright , write this command in terminal . This command will create 
 3. Playwright dependencies , reference : https://playwright.dev/docs/intro
 
 After “ npm init playwright “ this cmd , it will ask you will language you choose Java script / Typescript
-#### Playwright Structure :
+## Playwright Structure :
 - Playwright configuration file : It is the test runner for all our test cases
 - Package file : Default file which gets created for every node project, here it will have information about playwright dependencies
 - Tests Folder : sample test file
 Create test files , filename.spec.js
 - Node modules : all playwright related jars
+  ##### Planning :
+  
