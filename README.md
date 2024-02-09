@@ -20,5 +20,8 @@ After “ npm init playwright “ this cmd , it will ask you will language you c
 - Tests Folder : sample test file
 Create test files , filename.spec.js
 - Node modules : all playwright related jars
-  ##### Planning :
+  ## Planning :
+- Plan the type of of testcases and configurations needed for tests
+### Writing a test :
+const {test, expect} = require('@playwright/test'); // to import test & expect from playwright 
   
