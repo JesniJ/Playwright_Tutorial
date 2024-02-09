@@ -23,5 +23,5 @@ Create test files , filename.spec.js
   ## Planning :
 - Plan the type of of testcases and configurations needed for tests
 ### Writing a test :
-const {test, expect} = require('@playwright/test'); // to import test & expect from playwright 
+```const {test, expect} = require('@playwright/test'); // to import test & expect from playwright ```
   
